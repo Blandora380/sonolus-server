@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "rating": 38,
+    "engine": "next-rush-dev",
+    "useSkin": { "useDefault": true },
+    "useBackground": { "useDefault": true },
+    "useEffect": { "useDefault": true },
+    "useParticle": { "useDefault": true },
+    "title": { "en": "PANDORA PARADOXXX" },
+    "artists": { "en": "削除" },
+    "author": { "en": "vallyyy#3049" },
+    "tags": [],
+    "description": { "en": "「maimai DX」より\nBPM 150\nノーツ数 2722\nAPPEND 38" }
+}
