@@ -6,6 +6,6 @@ const sonolus = new Sonolus()
 
 sonolus.load('./pack')
 
-app.use('/sonolus', sonolus.router)
+app.use(sonolus.router)
 
 export default app
