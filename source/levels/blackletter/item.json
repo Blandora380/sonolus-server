@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "rating": 31,
+    "engine": "next-rush-dev",
+    "useSkin": { "useDefault": true },
+    "useBackground": { "useDefault": true },
+    "useEffect": { "useDefault": true },
+    "useParticle": { "useDefault": true },
+    "title": { "en": "黒塗り世界宛書簡" },
+    "artists": { "en": "フロクロ" },
+    "author": { "en": "vallyyy#3049" },
+    "tags": [],
+    "description": { "en": "BPM 185\nノーツ数 1242\nAPPEND 31" }
+}

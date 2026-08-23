@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "rating": 15,
+    "engine": "next-rush-dev",
+    "useSkin": { "useDefault": true },
+    "useBackground": { "useDefault": true },
+    "useEffect": { "useDefault": true },
+    "useParticle": { "useDefault": true },
+    "title": { "en": "Sumpah Malaz Kerjah" },
+    "artists": { "en": "DJ Skynix / Meme Indonesia" },
+    "author": { "en": "ロイ-Roy.#1922579" },
+    "tags": [],
+    "description": { "en": "Plenger\n\n\n#KEYWORDS\n##:hi" }
+}
