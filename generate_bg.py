@@ -7,6 +7,7 @@ base_dir = "/data/data/com.termux/files/home/sonolus-express-server/source/level
 for level_name in os.listdir(base_dir):
     level_path = os.path.join(base_dir, level_name)
     cover_path = os.path.join(level_path, "cover.png")
+    output_path = os.path.join(level_path, "background.png")
 
     if not os.path.isfile(cover_path):
         continue
@@ -14,6 +15,6 @@ for level_name in os.listdir(base_dir):
     print(f"Processing {level_name}...")
     img = Image.open(cover_path)
     result = pjsk_bg.render_v3(img)
-    result.save(cover_path)
+    result.save(output_path)
 
 print("All finished!")
