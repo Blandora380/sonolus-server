@@ -2,9 +2,7 @@ import express from 'express'
 import { Sonolus, SonolusSpaShare } from '@sonolus/express'
 
 const app = express()
-const sonolus = new Sonolus({
-    banner: { url: '/banner.jpg' }
-})
+const sonolus = new Sonolus()
 sonolus.load('./pack')
 
 const sonolusShare = new SonolusSpaShare('./public')
