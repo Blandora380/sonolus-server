@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "rating": 39,
+    "engine": "next-rush-dev",
+    "useSkin": { "useDefault": true },
+    "useBackground": { "useDefault": true },
+    "useEffect": { "useDefault": true },
+    "useParticle": { "useDefault": true },
+    "title": { "en": "YOUNITHM" },
+    "artists": { "en": "大国奏音" },
+    "author": { "en": "vallyyy#3049" },
+    "tags": [],
+    "description": { "en": "「CHUNITHM」より\nBPM 260\nノーツ数 3512\nAPPEND 39" }
+}
