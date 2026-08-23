@@ -1,0 +1,12 @@
+{
+    "version": 13,
+    "title": { "en": "Next RUSH+" },
+    "subtitle": { "en": "NextSEKAI R+" },
+    "author": { "en": "NextSEKAI R+" },
+    "tags": [],
+    "description": { "en": "" },
+    "skin": "NR-V3-S2",
+    "background": "v3",
+    "effect": "coconut-next-sekai-1",
+    "particle": "toasted-bread-st"
+}

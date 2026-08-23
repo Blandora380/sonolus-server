@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/sonolus/(.*)",
+      "dest": "/api/sonolus?path=$1"
+    },
+    {
+      "handle": "filesystem"
+    }
+  ]
+}
