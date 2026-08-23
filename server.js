@@ -1,5 +1,5 @@
 import express from 'express'
-import { Sonolus } from '@sonolus/express'
+import { Sonolus, SonolusSpaShare } from '@sonolus/express'
 
 const app = express()
 const sonolus = new Sonolus()
