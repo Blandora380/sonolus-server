@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "rating": 27,
+    "engine": "next-rush-dev",
+    "useSkin": { "useDefault": true },
+    "useBackground": { "useDefault": true },
+    "useEffect": { "useDefault": true },
+    "useParticle": { "useDefault": true },
+    "title": { "en": "Digi Digi Hey" },
+    "artists": { "en": "DJ.ILHAM" },
+    "author": { "en": "ahhdamngh#6767" },
+    "tags": [],
+    "description": { "en": "So... Digi Digi Digi Digi Digi Hey" }
+}
