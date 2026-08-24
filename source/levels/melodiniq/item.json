@@ -1,0 +1,31 @@
+{
+    "version": 1,
+    "rating": 40,
+    "engine": "next-rush-dev",
+    "useSkin": {
+        "useDefault": true
+    },
+    "useBackground": {
+        "useDefault": false,
+        "item": "bg-melodiniq"
+    },
+    "useEffect": {
+        "useDefault": true
+    },
+    "useParticle": {
+        "useDefault": true
+    },
+    "title": {
+        "en": "Melodiniq"
+    },
+    "artists": {
+        "en": "onoken a.k.a. owl＊tree"
+    },
+    "author": {
+        "en": "vallyyy#3049"
+    },
+    "tags": [],
+    "description": {
+        "en": "「CHUNITHM」より\nBPM 193\nノーツ数 6767\nAPPEND 40"
+    }
+}
