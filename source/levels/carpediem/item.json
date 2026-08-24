@@ -1,0 +1,31 @@
+{
+    "version": 1,
+    "rating": 38,
+    "engine": "next-rush-dev",
+    "useSkin": {
+        "useDefault": true
+    },
+    "useBackground": {
+        "useDefault": false,
+        "item": "bg-carpediem"
+    },
+    "useEffect": {
+        "useDefault": true
+    },
+    "useParticle": {
+        "useDefault": true
+    },
+    "title": {
+        "en": "Carpe Diem"
+    },
+    "artists": {
+        "en": "Toneri Nikako & Karasumori Daikoku"
+    },
+    "author": {
+        "en": "Incunabulum#2018444"
+    },
+    "tags": [],
+    "description": {
+        "en": "[APPEND 38+]\nThis song originates from World Dai Star.\nCombo: 3357\nTime: 2:33\nBPM: 264\nGimmicks: alot of soflan and other random shi\nNotes: This chart requires 6 or more fingers."
+    }
+}
