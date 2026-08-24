@@ -2,13 +2,30 @@
     "version": 1,
     "rating": 36,
     "engine": "next-rush-dev",
-    "useSkin": { "useDefault": true },
-    "useBackground": { "useDefault": true },
-    "useEffect": { "useDefault": true },
-    "useParticle": { "useDefault": true },
-    "title": { "en": "Inferno City" },
-    "artists": { "en": "Ponchi♪ feat. はーち" },
-    "author": { "en": "Incunabulum#2018444" },
+    "useSkin": {
+        "useDefault": true
+    },
+    "useBackground": {
+        "useDefault": false,
+        "item": "bg-infernocity"
+    },
+    "useEffect": {
+        "useDefault": true
+    },
+    "useParticle": {
+        "useDefault": true
+    },
+    "title": {
+        "en": "Inferno City"
+    },
+    "artists": {
+        "en": "Ponchi♪ feat. はーち"
+    },
+    "author": {
+        "en": "Incunabulum#2018444"
+    },
     "tags": [],
-    "description": { "en": "[APPEND 36]\nThis song originates from Phigros.\nCombo: 2087\nTime: 1:58\nGimmicks: Guide gimmicks, soflan\nNotes: This chart requires 5 or more fingers" }
+    "description": {
+        "en": "[APPEND 36]\nThis song originates from Phigros.\nCombo: 2087\nTime: 1:58\nGimmicks: Guide gimmicks, soflan\nNotes: This chart requires 5 or more fingers"
+    }
 }

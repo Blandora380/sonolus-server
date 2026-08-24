@@ -2,13 +2,30 @@
     "version": 1,
     "rating": 38,
     "engine": "next-rush-dev",
-    "useSkin": { "useDefault": true },
-    "useBackground": { "useDefault": true },
-    "useEffect": { "useDefault": true },
-    "useParticle": { "useDefault": true },
-    "title": { "en": "I Wanna" },
-    "artists": { "en": "Shizuka (CV: Ikumi Hasegawa)" },
-    "author": { "en": "Incunabulum#2018444" },
+    "useSkin": {
+        "useDefault": true
+    },
+    "useBackground": {
+        "useDefault": false,
+        "item": "bg-iwanna"
+    },
+    "useEffect": {
+        "useDefault": true
+    },
+    "useParticle": {
+        "useDefault": true
+    },
+    "title": {
+        "en": "I Wanna"
+    },
+    "artists": {
+        "en": "Shizuka (CV: Ikumi Hasegawa)"
+    },
+    "author": {
+        "en": "Incunabulum#2018444"
+    },
     "tags": [],
-    "description": { "en": "[APPEND 38+]\nThis song originates from World Dai Star.\nCombo: 2607\nTime: 2:31\nGimmicks: Guide gimmicks\nNotes: This chart requires 6 or more fingers." }
+    "description": {
+        "en": "[APPEND 38+]\nThis song originates from World Dai Star.\nCombo: 2607\nTime: 2:31\nGimmicks: Guide gimmicks\nNotes: This chart requires 6 or more fingers."
+    }
 }

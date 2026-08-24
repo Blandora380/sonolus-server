@@ -2,13 +2,30 @@
     "version": 1,
     "rating": 39,
     "engine": "next-rush-dev",
-    "useSkin": { "useDefault": true },
-    "useBackground": { "useDefault": true },
-    "useEffect": { "useDefault": true },
-    "useParticle": { "useDefault": true },
-    "title": { "en": "おくすり飲んで寝よう" },
-    "artists": { "en": "もちうつね" },
-    "author": { "en": "vallyyy#3049" },
+    "useSkin": {
+        "useDefault": true
+    },
+    "useBackground": {
+        "useDefault": false,
+        "item": "bg-takeamedicine"
+    },
+    "useEffect": {
+        "useDefault": true
+    },
+    "useParticle": {
+        "useDefault": true
+    },
+    "title": {
+        "en": "おくすり飲んで寝よう"
+    },
+    "artists": {
+        "en": "もちうつね"
+    },
+    "author": {
+        "en": "vallyyy#3049"
+    },
     "tags": [],
-    "description": { "en": "BPM 130\nノーツ数 2640\nAPPEND 39" }
+    "description": {
+        "en": "BPM 130\nノーツ数 2640\nAPPEND 39"
+    }
 }
