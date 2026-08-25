@@ -1,6 +1,6 @@
 # The's Server
 
-Custom Sonolus server running the NextRush+ engine.
+Custom Sonolus server running the NextRUSH+ engine.
 
 🔗 https://ohdam.vercel.app
 
