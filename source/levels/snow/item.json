@@ -1,0 +1,31 @@
+{
+    "version": 1,
+    "rating": 32,
+    "engine": "next-rush-dev",
+    "useSkin": {
+        "useDefault": true
+    },
+    "useBackground": {
+        "useDefault": false,
+        "item": "bg-snow"
+    },
+    "useEffect": {
+        "useDefault": true
+    },
+    "useParticle": {
+        "useDefault": true
+    },
+    "title": {
+        "en": "Snow Colored Score"
+    },
+    "artists": {
+        "en": "イロドリミドリ"
+    },
+    "author": {
+        "en": "vallyyy#3049"
+    },
+    "tags": [],
+    "description": {
+        "en": "BPM 164\nノーツ数 1792\nAPPEND 32"
+    }
+}
