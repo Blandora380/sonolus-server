@@ -1,0 +1,31 @@
+{
+    "version": 1,
+    "rating": 37,
+    "engine": "next-rush-dev",
+    "useSkin": {
+        "useDefault": true
+    },
+    "useBackground": {
+        "useDefault": false,
+        "item": "bg-outrage"
+    },
+    "useEffect": {
+        "useDefault": true
+    },
+    "useParticle": {
+        "useDefault": true
+    },
+    "title": {
+        "en": "OUTRAGE"
+    },
+    "artists": {
+        "en": "USAO vs DJ Myosuke"
+    },
+    "author": {
+        "en": "vallyyy#3049"
+    },
+    "tags": [],
+    "description": {
+        "en": "「CHUNITHM」より\nBPM 215\nノーツ数 2680\nAPPEND 37"
+    }
+}
