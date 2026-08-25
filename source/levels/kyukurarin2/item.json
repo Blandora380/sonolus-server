@@ -1,0 +1,31 @@
+{
+    "version": 1,
+    "rating": 30,
+    "engine": "next-rush-dev",
+    "useSkin": {
+        "useDefault": true
+    },
+    "useBackground": {
+        "useDefault": false,
+        "item": "bg-kyukurarin2"
+    },
+    "useEffect": {
+        "useDefault": true
+    },
+    "useParticle": {
+        "useDefault": true
+    },
+    "title": {
+        "en": "Kyu-Kurarin 2"
+    },
+    "artists": {
+        "en": "KAFU"
+    },
+    "author": {
+        "en": "iwanttokyukurarin#666"
+    },
+    "tags": [],
+    "description": {
+        "en": ""
+    }
+}

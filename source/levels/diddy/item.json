@@ -1,0 +1,31 @@
+{
+    "version": 1,
+    "rating": 27,
+    "engine": "next-rush-dev",
+    "useSkin": {
+        "useDefault": true
+    },
+    "useBackground": {
+        "useDefault": false,
+        "item": "bg-diddy"
+    },
+    "useEffect": {
+        "useDefault": true
+    },
+    "useParticle": {
+        "useDefault": true
+    },
+    "title": {
+        "en": "What is this diddy blud doing on the calculator?"
+    },
+    "artists": {
+        "en": "Suno AI / -"
+    },
+    "author": {
+        "en": "diddy#696969"
+    },
+    "tags": [],
+    "description": {
+        "en": "Yk i havent seen a chart of this, so here it is"
+    }
+}
