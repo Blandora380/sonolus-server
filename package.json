@@ -1,5 +1,8 @@
 {
   "name": "sonolus-express-server",
+  "overrides": {
+    "typebox": "1.0.0"
+  },
   "version": "1.0.0",
   "type": "module",
   "description": "",
