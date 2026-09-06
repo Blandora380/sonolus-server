@@ -9,7 +9,8 @@
   },
   "keywords": [],
   "dependencies": {
-    "@sonolus/express": "^7.5.3",
+    "@sonolus/core": "^7.15.4",
+    "@sonolus/express": "^7.5.4",
     "express": "^4.22.2",
     "sonolus-core": "^7.4.1"
   }
