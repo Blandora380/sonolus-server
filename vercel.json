@@ -1,7 +1,7 @@
 {
   "functions": {
     "server.js": {
-      "includeFiles": "{pack,public}/**"
+      "includeFiles": "{pack,public,node_modules/@sinclair/typebox}/**"
     }
   }
 }
