@@ -10,6 +10,8 @@ Made by the (discord: @blandora2000)
 - Auto-generated backgrounds from chart covers
 - And more :3
 
+![Alt text](images/screenshot.png)
+
 ## Tech Stack
 - Backend: [@sonolus/express](https://github.com/Sonolus/sonolus-express)
 - Frontend: [sonolus-server-web](https://github.com/Sonolus/sonolus-server-web)
